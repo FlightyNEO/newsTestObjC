@@ -1,0 +1,12 @@
+PODS:
+  - Backendless (4.0.1)
+
+DEPENDENCIES:
+  - Backendless (~> 4.0)
+
+SPEC CHECKSUMS:
+  Backendless: edb4c52801c738dad16e75bb86f2b76681bb52c7
+
+PODFILE CHECKSUM: 0c1eb5f4667054425ccc026a44f691e86e1177b0
+
+COCOAPODS: 1.2.1
